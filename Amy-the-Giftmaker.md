@@ -4,9 +4,9 @@
 THÈME : Culture web
 
 MA FAMILLE : 
-Lydia Jory		- jory.lydia@gmail.com
-Flavien Marcantoni	- athenaxv@hotmail.fr
-Karim El Mernissi	- kelmernissi@fr.ibm.com
+Lydia Jory	
+Flavien Marcantoni
+Karim El Mernissi
 
 QU’EST-CE QUE JE FAIS ?
 Je trouve le cadeau le plus adapté aux goûts actuels de ton ami et je le trouve sur internet au meilleur prix.
