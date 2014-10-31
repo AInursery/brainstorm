@@ -6,13 +6,13 @@ THÈME : Jeux vidéo
 
 MA FAMILLE : 
 
-Étienne David - etienne.david@agroparistech.com
+Étienne David
 
-Jérôme Vérité - jverite@doyoudreamup.com
+Jérôme Vérité
 
-Thomas Lacquemant - thomas@numa.paris
+Thomas Lacquemant
 
-Aurélien Digbeu - aureliendigbeu@live.fr
+Aurélien Digbeu 
 
 QU’EST-CE QUE JE FAIS ?
 
