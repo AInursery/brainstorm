@@ -6,15 +6,15 @@ THÈME : CINÉMA/SÉRIE TV
 
 MA FAMILLE : 
 
-François Raguin - francois.raguin@m4x.org
+François Raguin 
 
-Michael Yadaba - michael.yadaba@gmail.com
+Michael Yadaba 
 
-Claudio Vandi - claudio@numa.paris
+Claudio Vandi 
 
-Thibault Dugart - thyboox@gmail.com
+Thibault Dugart
 
-Penelope (Doc IBM) - penelopeam@gmail.com
+Penelope (Doctorante IBM) 
 
 QU'EST CE QUE JE FAIS ? 
 
