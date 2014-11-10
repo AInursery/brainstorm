@@ -1,11 +1,16 @@
 #Les projets issues du brainstrom chez NUMA
 
+[Retour sur le brainstorm en images](https://github.com/AInursery/brainstorm/blob/master/AInursery_Retour_Brainstorm.pdf?raw=true)
+
 ##Sport
 [Jules le Supporter](https://github.com/AInursery/brainstorm/blob/master/Jules-le-Supporter.md)  
 [Marie la Coach](https://github.com/AInursery/brainstorm/blob/master/Marie-la-Coach.md)  
+
 ##Musique
+[Philip-the-life-soundtrack-composer](https://github.com/AInursery/brainstorm/blob/master/Philip-the-life-soundtrack-composer.md)  
 [John the Soundtrack Picker](https://github.com/AInursery/brainstorm/blob/master/John-the-Soundtrack-Picker.md)  
 [Wolfgang Amadeus Mozarella](https://github.com/AInursery/brainstorm/blob/master/Wolfgang-Amadeus-Mozarella.md)  
+
 
 ##Séries TV / Cinéma
 [Jack the anti spoiler](https://github.com/AInursery/brainstorm/blob/master/Jack-the-anti-spoiler.md)  
