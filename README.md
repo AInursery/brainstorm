@@ -5,6 +5,7 @@
 ##Sport
 [Jules le Supporter](https://github.com/AInursery/brainstorm/blob/master/Jules-le-Supporter.md)  
 [Marie la Coach](https://github.com/AInursery/brainstorm/blob/master/Marie-la-Coach.md)  
+[Didier le commentateur](https://github.com/AInursery/brainstorm/blob/master/Didier-le-commentateur.md)
 
 ##Musique
 [John the Soundtrack Picker](https://github.com/AInursery/brainstorm/blob/master/John-the-Soundtrack-Picker.md)  
