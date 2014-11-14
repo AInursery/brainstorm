@@ -9,7 +9,7 @@
 ##Musique
 [John the Soundtrack Picker](https://github.com/AInursery/brainstorm/blob/master/John-the-Soundtrack-Picker.md)  
 [Wolfgang Amadeus Mozarella](https://github.com/AInursery/brainstorm/blob/master/Wolfgang-Amadeus-Mozarella.md)  
-[Philip the life soundtrack composer](https://github.com/AInursery/brainstorm/blob/master/Philip-the-life-soundtrack-composer.md)  
+[Quincy the life soundtrack composer](https://github.com/AInursery/brainstorm/blob/master/Quincy-the-life-soundtrack-composer.md)  
 
 ##Séries TV / Cinéma
 [Jack the anti spoiler](https://github.com/AInursery/brainstorm/blob/master/Jack-the-anti-spoiler.md)  
