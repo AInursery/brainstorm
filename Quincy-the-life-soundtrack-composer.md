@@ -1,4 +1,4 @@
-# Quincy the life soundtrack composer
+# Philip the life-soundtrack composer
 
 ##Human Side
 
